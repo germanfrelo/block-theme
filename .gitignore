@@ -1,12 +1,6 @@
-# Npm
-node_modules
-package-lock.json
+# Node
 
-# Code editor files
-.vscode
-
-# Other system files
-.DS_Store
+node_modules/
 
 # Composer
 /vendor/
@@ -16,4 +10,3 @@ composer.lock
 /css
 /js
 /blocks
-
